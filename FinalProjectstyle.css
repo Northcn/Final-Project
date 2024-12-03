@@ -5,3 +5,8 @@ h1#site-title {
     text-align: center;
     color: brown;
 }
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
