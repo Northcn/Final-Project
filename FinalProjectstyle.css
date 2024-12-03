@@ -1,3 +1,18 @@
+body {
+    width: 95%;
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-image: url(https://media.istockphoto.com/id/1491842067/vector/seamless-pattern-with-guinea-pigs-and-checkered-background-vector-seamless-grid-template.jpg?s=612x612&w=0&k=20&c=TGdX3HiKZlE3brZlHoPpYB9TCsFUrUrkiCFCkisCb6E=);
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
 h1#site-title {
     font-size: 72px;
     font-weight: 700;
