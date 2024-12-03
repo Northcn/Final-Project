@@ -18,15 +18,8 @@ h1#site-title {
     color: brown;
 }
 
-ul {
+ul li {
     display: inline;
-    padding: 0;
-    margin: 0;
-    justify-content: space-between;
-}
-
-
-li {
     font-size: 23px;
     color: black;
     padding: 40px;
