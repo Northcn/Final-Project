@@ -15,7 +15,7 @@ h1#site-title {
     font-weight: 700;
     font-family:'Times New Roman', Times, serif;
     text-align: center;
-    color: brown;
+    color: black;
 }
 
 div.container {
@@ -48,5 +48,10 @@ ul li a:hover{
 }
 
 h2#Breeds {
+    text-align: center;
+}
+
+ol li {
+    font-size: 14px;
     text-align: center;
 }
