@@ -47,6 +47,15 @@ ul li a:hover{
     font-size: 18px;
 }
 
+h1#fact-title {
+    font-size: 72px;
+    font-weight: 700;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+}
+
+
 h2#Breeds {
     text-align: center;
 }
