@@ -46,3 +46,7 @@ ul li a:hover{
     font-family:'Times New Roman', Times, serif;
     font-size: 16px;
 }
+
+h2#Breeds {
+    text-align: center;
+}
