@@ -73,14 +73,11 @@ ol li {
 }
 
 div.container2 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
 }
 
 #GP-Facts {
     list-style-type: none;
-    text-align: center;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
     padding: 0;
