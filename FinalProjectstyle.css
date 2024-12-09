@@ -76,5 +76,6 @@ ol li {
     text-align: center;
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
-    margin: auto;
+    padding: 10px 20px;
+    margin-right: 30px;
 }
