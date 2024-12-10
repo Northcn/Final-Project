@@ -82,23 +82,23 @@ h4 {
     font-family:'Times New Roman', Times, serif;
 }
 
-#Kavee {
+.Kavee {
     text-align: center; 
 
 }
 
-#Kavee:link {
+.Kavee:link {
     text-decoration: none;
 }
 
-#Kavee:visited {
+.Kavee:visited {
     text-decoration: none;
 }
 
-#Kavee:hover {
+.Kavee:hover {
     text-decoration: underline;
 }
 
-#Kavee:active {
+.Kavee:active {
     text-decoration: underline;
 }
