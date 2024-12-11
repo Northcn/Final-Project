@@ -109,3 +109,16 @@ h4 {
 .Kavee:active {
     text-decoration: underline;
 }
+
+.center-image {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Coat-Types {
+    height: 50px;
+    max-width: 100%;
+}
